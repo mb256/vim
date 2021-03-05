@@ -1,5 +1,3 @@
-# mtbradley/vim
-
 ### vim editor related information<br/>Including personal preferences, settings and guides
 
 **Contents**
